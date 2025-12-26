@@ -33,7 +33,7 @@ vers_data:
                 db	38h ; 8
                 db	30h ; 0
                 db	9               ; ROM Version
-                dw	2F0Fh           ; serial number LSBs
+                dw	254Ah           ; serial number LSBs
                 dw	0h              ; serial number MSBs
 
 ;; **************************************************************************
